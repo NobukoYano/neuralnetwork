@@ -1,0 +1,11 @@
+==Test No.01-010 ==
+Initial Gewicht
+[[0.19 0.21]
+ [0.55 0.4 ]]
+Average difference before training
+0.5497803283203684 0.38476321236799854
+Gewicht nach Training
+[[-1.36797522 -1.38563213]
+ [ 1.58372149  1.48485424]]
+Average difference after training
+0.21637715806936597 0.19553069965780281
